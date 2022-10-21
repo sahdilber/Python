@@ -10,6 +10,7 @@ su=3
 gofret=12
 
 
+
 alisveris_tutari=muz+elma+sakız+cikolata+kahve+peynir+soda+süt+su+gofret
 
 print("Alışveriş tutarı {}tl.\n".format(alisveris_tutari))
